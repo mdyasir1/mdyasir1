@@ -1,64 +1,86 @@
-<!-- Header -->
-<h1 align="center">Hi, I'm Yasir 👋</h1>
+<!-- README.md -->
+
+<h1 align="center">Hi there, I'm Yasir 👋</h1>
 
 <p align="center">
-  💻 Frontend Developer • ⚛️ React Specialist • 🚀 Tech Explorer  
-  <br/>
-  <strong>Creating beautiful, performant, and scalable UIs</strong>
+  <em>🌐 Frontend Developer | 💡 Lifelong Learner | ☕ Code & Coffee Enthusiast</em>
 </p>
 
----
-
-## 🧑‍💻 About Me
-
-- 👨‍💼 Frontend Developer at **Trangla Innovations Pvt Ltd**
-- 🌱 Exploring Full-Stack: **Express.js**, **Prisma**, **MySQL**
-- 🎨 Passionate about UI/UX, responsive design & performance optimization
-- 📚 Always learning, always building
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=flat&logo=mui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-</div>
-
----
-
-## 📂 Projects I've Worked On
-
-### 🚚 Truck Management System  
-> A logistics dashboard for truck tracking and driver management.
-
-### 🏨 Hotel Booking Module (Travel Web App)  
-> Search, filter, view, and book hotels — fully responsive and API-integrated.
-
----
-
-## 🌐 Connect With Me
-
 <p align="center">
+  <a href="https://yasirarafath.vercel.app" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square&logo=vercel&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/mdyasirarafath" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
   </a>
   <a href="mailto:mdyasir4145@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://yasirarafath.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-121212?style=flat&logo=vercel&logoColor=white" />
+    <img alt="Email" src="https://img.shields.io/badge/Email-Say%20Hi-red?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
+## 🚀 About Me
+
+- 🧑‍💻 Frontend Developer with **1.3+ years** of experience building **modern, user-friendly UIs**.
+- 🛠 Currently working at **Trangla Innovations Pvt Ltd**, contributing to large-scale platforms like **Fleet Management Systems** and **Travel Booking Solutions**.
+- 🌱 Learning **Express.js**, **MySQL**, and **Prisma** to expand into full-stack development.
+- 🎨 Obsessed with **pixel-perfect UI**, reusable components, and bringing **Figma designs to life**.
+
+---
+
+## 🧰 Tech Toolbox
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MaterialUI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
+## 📌 Projects
+
+### 🧳 Multi-Modal Travel Booking System  
+> A robust hotel booking module using **React**, **Tailwind CSS**, and REST APIs.  
+> Enables users to search, filter, and book accommodations seamlessly.
+
+### 🚛 Truck Management System  
+> Developed a web interface for real-time fleet and trip management.  
+> Built with **React**, **Material UI**, and integrated APIs for live tracking.
+
+> 🧪 *More personal projects on the way...*
+
+---
+
+## ✍️ I Share What I Learn
+
+🎯 I create short carousel posts to simplify frontend concepts like:  
+- **React Hooks**  
+- **Responsive Design**  
+- **JavaScript Essentials**  
+
+🔗 I regularly share beginner-friendly **React & JavaScript tips** on [LinkedIn](https://www.linkedin.com/in/mdyasirarafath).  
+✨ Check out my “mini educational carousels” to learn something new every day!
+
+---
+
+## 🔗 Let's Connect
+
+- 🌐 [Portfolio](https://yasirarafath.vercel.app)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/mdyasirarafath)  
+- 📫 [Email](mailto:mdyasir4145@gmail.com)
+
+---
+
 <p align="center">
-  ✨ "Code the web you want to see." ✨
+  <em>“Consistency beats intensity. One step at a time.”</em><br/>
+  <strong>— Building seamless experiences, from code to creativity 🚀</strong>
 </p>
