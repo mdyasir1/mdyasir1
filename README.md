@@ -82,5 +82,4 @@
 
 <p align="center">
   <em>“Consistency beats intensity. One step at a time.”</em><br/>
-  <strong>— Building seamless experiences, from code to creativity 🚀</strong>
 </p>
