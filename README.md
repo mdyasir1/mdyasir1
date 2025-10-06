@@ -1,5 +1,3 @@
-<!-- README.md -->
-
 <h1 align="center">Hi there, I'm Yasir 👋</h1>
 
 <p align="center">
@@ -22,10 +20,10 @@
 
 ## 🚀 About Me
 
-- 🧑‍💻 Frontend Developer with **1.3+ years** of experience building **modern, user-friendly UIs**.
-- 🛠 Currently working at **Trangla Innovations Pvt Ltd**, contributing to large-scale platforms like **Fleet Management Systems** and **Travel Booking Solutions**.
-- 🌱 Learning **Express.js**, **MySQL**, and **Prisma** to expand into full-stack development.
-- 🎨 Obsessed with **pixel-perfect UI**, reusable components, and bringing **Figma designs to life**.
+- 🧑‍💻 Frontend Developer with **2 years of experience** building **modern, scalable web applications**.
+- 🏢 Currently working at **Trangla Innovations Pvt Ltd**, developing **enterprise-grade platforms** for transport and travel industries.
+- 🌱 Expanding my full-stack skills with **Node.js**, **Express.js**, **MySQL**, and **Prisma**.
+- 🎨 Passionate about **clean UI**, **reusable components**, and **bringing designs to life** with precision.
 
 ---
 
@@ -39,6 +37,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=radix-ui&logoColor=white"/>
   <img src="https://img.shields.io/badge/MaterialUI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -46,29 +45,63 @@
 
 ---
 
-## 📌 Projects
+## 📦 Featured Projects
 
-### 🧳 Multi-Modal Travel Booking System  
-> A robust hotel booking module using **React**, **Tailwind CSS**, and REST APIs.  
-> Enables users to search, filter, and book accommodations seamlessly.
-
-### 🚛 Truck Management System  
-> Developed a web interface for real-time fleet and trip management.  
-> Built with **React**, **Material UI**, and integrated APIs for live tracking.
-
-> 🧪 *More personal projects on the way...*
+### 🧭 **TheWayFinder – Consultancy Web Application**
+> A modern web platform for consultancy and relocation services.  
+> Built a responsive, SEO-friendly UI using **React**, **TypeScript**, and **Tailwind CSS**.  
+> - Developed dynamic routing for smooth navigation.  
+> - Integrated inquiry form with backend APIs.  
+> - Ensured accessibility and performance optimization.
 
 ---
 
-## ✍️ I Share What I Learn
+### 💪 **Brobooke – Social Fitness Platform**
+> A social networking app blending **community engagement** with **fitness tracking**.  
+> Built using **Next.js**, **TypeScript**, and **Tailwind CSS**.  
+> - Created interactive UI for posts, workouts, and notifications.  
+> - Integrated authentication and profile management.  
+> - Designed modular components for scalability.
 
-🎯 I create short carousel posts to simplify frontend concepts like:  
-- **React Hooks**  
-- **Responsive Design**  
-- **JavaScript Essentials**  
+---
 
-🔗 I regularly share beginner-friendly **React & JavaScript tips** on [LinkedIn](https://www.linkedin.com/in/mdyasirarafath).  
-✨ Check out my “mini educational carousels” to learn something new every day!
+### 🧳 **Multi-Modal Travel Booking System**
+> A travel web application for **hotel search, details, and booking**.  
+> - Implemented dynamic search and filter functionalities.  
+> - Used **React**, **Tailwind CSS**, and REST APIs.  
+> - Developed the hotel module, improving UX and API response handling.
+
+---
+
+### 🚛 **Truck Management System**
+> A real-time **Fleet & Trip Management System** for logistics operations.  
+> - Built with **React**, **Material UI**, and REST APIs.  
+> - Enabled live data updates for trip and driver management.  
+> - Improved component structure for maintainability.
+
+---
+
+### 🛍️ **Buyzo – E-commerce Platform**
+> A full-featured shopping platform built with **React 19** and **TypeScript**.  
+> - Implemented product listing, filtering, and cart management.  
+> - Designed with **Framer Motion** for smooth transitions.  
+> - Focused on **mobile-first design** and clean UI structure.
+
+---
+
+### 📦 **TrackKit – Inventory & Sales Management Tool**
+> A lightweight **inventory tracking app** for shop vendors.  
+> - Built with **Next.js**, **TypeScript**, and **Tailwind CSS**.  
+> - Includes APIs for adding and updating products.  
+> - Tracks stock levels and revenue in real-time.  
+> - Modular structure ready for future database integration.
+
+---
+
+## 🧠 Currently Exploring
+- ⚙️ **Node.js + Express.js** for backend development  
+- 🗄️ **MySQL & Prisma ORM** for database management  
+- ☁️ **AWS & Docker** basics for deployment and scalability  
 
 ---
 
@@ -81,5 +114,5 @@
 ---
 
 <p align="center">
-  <em>“Consistency beats intensity. One step at a time.”</em><br/>
+  <em>“Consistency beats intensity. One step at a time.”</em>
 </p>
